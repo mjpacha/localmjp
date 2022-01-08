@@ -1,5 +1,6 @@
 {
  "nombre":"micky",
  "apellido":"pacha",
-"cedula":"123123123
+"cedula":"123123123,
+"edad":23
 }
