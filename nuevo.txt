@@ -1,4 +1,5 @@
 {
  "nombre":"micky",
- "apellido":"pacha"
+ "apellido":"pacha",
+ "cedula":"123123123"
 }
