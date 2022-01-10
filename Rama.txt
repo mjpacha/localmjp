@@ -1,3 +1,6 @@
 {
-"nombre":"maycol"
+"nombre":"maycol",
+"apellido":"pacha",
+"edad":12,
+"edad1":123
 }
